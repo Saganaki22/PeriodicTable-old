@@ -2,7 +2,8 @@
 
 🧪 An interactive 3D Periodic Table that allows exploration of elements with detailed information, electron configurations, and a visually engaging Bohr model representation.
 
-![image](https://github.com/user-attachments/assets/0122cac9-7eba-4a1e-a2ee-b8a30d128270)
+![image](https://github.com/user-attachments/assets/1ff01cac-62b4-43a1-beda-4f3c5cb5bc8d)
+
 
 
 ## Features
