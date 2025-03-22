@@ -1,8 +1,9 @@
 # PeriodicTable
 
-An interactive 3D Periodic Table that allows exploration of elements with detailed information, electron configurations, and a visually engaging Bohr model representation.
+🧪 An interactive 3D Periodic Table that allows exploration of elements with detailed information, electron configurations, and a visually engaging Bohr model representation.
 
-![3D Periodic Table Preview](https://i.ibb.co/23zHC9dq/og1.jpg)
+![image](https://github.com/user-attachments/assets/0122cac9-7eba-4a1e-a2ee-b8a30d128270)
+
 
 ## Features
 
@@ -59,4 +60,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 - Element data from the Periodic Table JSON repository
 - Three.js community for 3D visualization techniques
-- React team for the component framework 
+- React team for the component framework
+
+![3D Periodic Table Preview](https://i.ibb.co/23zHC9dq/og1.jpg)
